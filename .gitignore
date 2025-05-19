@@ -1,0 +1,56 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vscode/
+.vs/
+.vscode-test/
+
+# ASP.NET Core environment files
+appsettings.Development.json
+appsettings.*.json
+
+# Cache folders
+.outputcache/
+outputcache/
+
+# Logs
+*.log
+logs/
+*.nlog
+
+# dotnet-specific folders
+.project/
+*.pidb
+*.ide
+
+# Rider IDE
+.idea/
+
+# Test results
+TestResults/
+
+# Temporary files
+*.tmp
+*.temp
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Published apps
+publish/

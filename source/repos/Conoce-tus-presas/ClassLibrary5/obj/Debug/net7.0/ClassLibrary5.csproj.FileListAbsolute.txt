@@ -1,5 +1,0 @@
-C:\Users\Hendry\source\repos\Conoce-tus-presas\ClassLibrary5\obj\Debug\net7.0\ClassLibrary5.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Hendry\source\repos\Conoce-tus-presas\ClassLibrary5\obj\Debug\net7.0\ClassLibrary5.AssemblyInfoInputs.cache
-C:\Users\Hendry\source\repos\Conoce-tus-presas\ClassLibrary5\obj\Debug\net7.0\ClassLibrary5.AssemblyInfo.cs
-C:\Users\Hendry\source\repos\Conoce-tus-presas\ClassLibrary5\obj\Debug\net7.0\ClassLibrary5.csproj.CoreCompileInputs.cache
-C:\Users\Hendry\source\repos\Conoce-tus-presas\ClassLibrary5\obj\Debug\net7.0\ClassLibrary5.sourcelink.json
