@@ -1,0 +1,37 @@
+﻿using Conocetuspresas.Infrastructure.Identity.Entities;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+
+namespace Conocetuspresas.Infrastructure.Identity.Context
+{
+    public class IdentityContext : IdentityDbContext<ApplicationUser>
+    {
+        public IdentityContext(DbContextOptions<IdentityContext> options) : base(options) { }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.HasDefaultSchema("Identity");
+
+            modelBuilder.Entity<ApplicationUser>(entity =>
+            {
+                entity.ToTable(name: "Users");
+            });
+            modelBuilder.Entity<IdentityRole>(entity =>
+            {
+                entity.ToTable(name: "Roles");
+            });
+            modelBuilder.Entity<IdentityUserRole<String>>(entity =>
+            {
+                entity.ToTable(name: "UserRoles");
+            });
+            modelBuilder.Entity<IdentityUserLogin<String>>(entity =>
+            {
+                entity.ToTable(name: "UserLogins");
+            });
+
+        }
+    }
+}

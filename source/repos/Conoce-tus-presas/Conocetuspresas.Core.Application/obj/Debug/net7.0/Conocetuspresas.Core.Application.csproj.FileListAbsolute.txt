@@ -1,0 +1,16 @@
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\obj\Debug\net7.0\Conocetuspresas.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\obj\Debug\net7.0\Conocetuspresas.Core.Application.AssemblyInfoInputs.cache
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\obj\Debug\net7.0\Conocetuspresas.Core.Application.AssemblyInfo.cs
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\obj\Debug\net7.0\Conocetuspresas.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\obj\Debug\net7.0\Conocetuspresas.Core.Application.sourcelink.json
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\bin\Debug\net7.0\Conocetuspresas.Core.Application.deps.json
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\bin\Debug\net7.0\Conocetuspresas.Core.Application.dll
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\bin\Debug\net7.0\Conocetuspresas.Core.Application.pdb
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\bin\Debug\net7.0\Conocetuspresas.Core.Domain.dll
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\bin\Debug\net7.0\Conocetuspresas.Core.Domain.pdb
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\obj\Debug\net7.0\Conocetuspresas.Core.Application.csproj.AssemblyReference.cache
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\obj\Debug\net7.0\Conocetu.15D728F5.Up2Date
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\obj\Debug\net7.0\Conocetuspresas.Core.Application.dll
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\obj\Debug\net7.0\refint\Conocetuspresas.Core.Application.dll
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\obj\Debug\net7.0\Conocetuspresas.Core.Application.pdb
+C:\Users\Hendry\source\repos\Conoce-tus-presas\Conocetuspresas.Core.Application\obj\Debug\net7.0\ref\Conocetuspresas.Core.Application.dll
